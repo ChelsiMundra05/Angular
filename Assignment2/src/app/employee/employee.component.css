@@ -1,0 +1,17 @@
+.container { 
+    width: 150%;
+    height: 100%;
+    border: 1px solid #777777;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+.Name, .Email, .ContactNo, .Address, .Loginusername, .Loginpassword, .Gender, .Qualification, .Experience, .CodingLanguages{
+    margin-bottom:20px;
+    padding: 0px 10px;
+}
+
+label {
+    margin-bottom: 5px;
+    color: #007ACC;
+}
